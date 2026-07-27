@@ -200,7 +200,7 @@ Examples include:
 
 ---
 
-# 📁 Repository Structure
+# Repository Structure
 
 ```
 Formula1-Analytics-Dashboard/
@@ -247,7 +247,7 @@ Formula1-Analytics-Dashboard/
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 Potential future enhancements include:
 
